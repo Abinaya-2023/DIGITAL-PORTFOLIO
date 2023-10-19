@@ -216,6 +216,10 @@ section{
     transform: translateY(-10px);
 }
 
+footer{
+    text-align: center;
+}
+
 @media (max-width:1850px){
     header{
         padding:15px 8%;
