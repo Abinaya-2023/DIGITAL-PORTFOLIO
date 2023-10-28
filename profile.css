@@ -144,7 +144,7 @@ section{
     font-size: 1.1rem;
     font-weight: 400;
     color: grey;
-    line-height: 30px;
+    line-height: 35px;
     margin-bottom: 30px;
 }
 
@@ -291,8 +291,8 @@ section{
         width: auto;
     }
     .home-img img{
-        max-width:450px;
-        width: 100px;
+        max-height:auto;
+        width: 100%;
         height: auto;
     }
 }
