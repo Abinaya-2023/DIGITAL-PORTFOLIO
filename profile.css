@@ -295,8 +295,8 @@ footer{
         width: auto;
     }
     .home-img img{
-        max-width:450px;
-        width: 100px;
+        max-height:auto;
+        width: 100%;
         height: auto;
     }
 }
